@@ -20,7 +20,10 @@ Made by Weiqi Si.
 用了Box2d js物理引擎
 
 ## “探险家”游戏界面
-
+![Image text](https://raw.githubusercontent.com/Siweiqi0203/Explorer-WebGame/master/readme-img/pre6.JPG)
+![Image text](https://raw.githubusercontent.com/Siweiqi0203/Explorer-WebGame/master/readme-img/pre7.JPG)
+![Image text](https://raw.githubusercontent.com/Siweiqi0203/Explorer-WebGame/master/readme-img/pre8.JPG)
+![Image text](https://raw.githubusercontent.com/Siweiqi0203/Explorer-WebGame/master/readme-img/pre9.JPG)
 
 
 
