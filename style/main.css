@@ -1,0 +1,23 @@
+body{
+    background:#fff;
+    color:#222;
+    margin:20px 20px 20px 20px;
+    padding:0;
+}
+
+#gjs-loader-images {
+	width: 0px;
+	height: 32px;
+	background: url('../data/loading.png');
+}
+
+#gjs-loader-sounds {
+	width: 0px;
+	height: 32px;
+	background: url('../data/loading.png');
+}
+
+#gjs-canvas {
+    width: 1024px;
+    height: 768px;
+}
