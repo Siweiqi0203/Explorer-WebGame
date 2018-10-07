@@ -11,6 +11,10 @@ Made by Weiqi Si.
 ## “探险家”主体框架
 功能实现主要采用了GameJs API （http://docs.gamejs.org/gamejs/time/index.html）
 ![Image text](https://raw.githubusercontent.com/Siweiqi0203/Explorer-WebGame/master/readme-img/pre1.JPG)
+![Image text](https://raw.githubusercontent.com/Siweiqi0203/Explorer-WebGame/master/readme-img/pre2.JPG)
+![Image text](https://raw.githubusercontent.com/Siweiqi0203/Explorer-WebGame/master/readme-img/pre3.JPG)
+![Image text](https://raw.githubusercontent.com/Siweiqi0203/Explorer-WebGame/master/readme-img/pre4.JPG)
+![Image text](https://raw.githubusercontent.com/Siweiqi0203/Explorer-WebGame/master/readme-img/pre5.JPG)
 
 ## “探险家”物理引擎
 用了Box2d js物理引擎
